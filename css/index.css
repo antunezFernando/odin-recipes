@@ -1,0 +1,32 @@
+html {
+    margin: auto;
+}
+
+body {
+    background-color: rgba(119, 10, 10, 0.795);
+    font-family: "Norse", sans-serif;
+}
+
+h1,
+.container p {
+    text-align: center;
+}
+
+.container {
+    font-size: 20px;
+    margin: auto;
+    width: 50%;
+    max-width: 30vw;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: rgb(138, 192, 243);
+}

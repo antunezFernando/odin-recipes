@@ -1,0 +1,43 @@
+html {
+    margin: auto;
+}
+
+body {
+    background-color: rgba(119, 10, 10, 0.795);
+    font-family: "Norse", sans-serif;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 5vw;
+}
+
+.img-div {
+    margin: auto;
+    width: 50%;
+}
+
+.recipe-div {
+    font-size: 2vw;
+}
+
+.recipe-div img {
+    height: auto;
+    width: 60%;
+    padding-bottom: 15px;
+}
+
+a {
+    color: white;
+    font-size: 2.5vw;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: rgb(138, 192, 243);
+}
